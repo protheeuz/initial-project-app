@@ -1,0 +1,4 @@
+0 Pneumonia
+1 Covid-19
+2 Normal
+3 Kanker
